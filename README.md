@@ -32,7 +32,7 @@ This application allows the user to sign-up for an account to have access to upd
 ![License](https://img.shields.io/badge/License--green.svg "CovidTracking.com Copyright © 2020 by The Atlantic Monthly Group. (CC BY 4.0)")
     
 ## Contributing Authors
-Carla Jeanpierre, Henry Logique, Eric Menatti, Saman Movaffaghi, Muhammad
+Carla Jeanpierre, Henry Logique, Eric Menatti, Saman Movaffaghi, Muhammad Anas
     
 ## Tests
 N/A
